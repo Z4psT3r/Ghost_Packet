@@ -34,8 +34,9 @@ By using this tool, you **assume full responsibility** for any consequences, inc
 
 ### Build
 
-```bash
-git clone https://github.com/<yourusername>/ghost_packet.git
+git clone https://github.com/Z4psT3r/Ghost_Packet.git
+
+ghost_packet.git
 cd ghost_packet
 go build -o ghost_packet main.go
 ```
